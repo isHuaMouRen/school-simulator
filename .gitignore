@@ -1,0 +1,12 @@
+.builds
+.vscode
+Assets
+Library
+Logs
+ProjectSettings
+Temp
+UserSettings
+.vsconfig
+Packages
+Assembly-CSharp.csproj
+SchoolSimulator.sln
